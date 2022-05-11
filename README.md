@@ -18,7 +18,7 @@ Menggunakan MySQL dengan database **pijarcamp**. dan tabel **produk** seperti ga
 
 ### Edit Data
 ![Edit Data 1](https://github.com/irfnd/tugas-10/blob/master/assets/Edit%20Data%201.png?raw=true)
-![Edit Data 1](https://github.com/irfnd/tugas-10/blob/master/assets/Edit%20Data%202.png?raw=true)
+![Edit Data 2](https://github.com/irfnd/tugas-10/blob/master/assets/Edit%20Data%202.png?raw=true)
 
 ### Hapus Data
 ![Hapus Data](https://github.com/irfnd/tugas-10/blob/master/assets/Hapus%20Data.png?raw=true)
